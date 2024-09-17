@@ -12,7 +12,7 @@ I'm **SerbianCharm**, a cybersecurity enthusiast dedicated to exploring the dept
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, PowerShell, C
-- **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, Nessus, Docker etc.
+- **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, Nessus, Docker, etc.
 
 ## 📊 GitHub Stats
 
