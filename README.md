@@ -6,8 +6,8 @@ I'm **SerbianCharm**, a cybersecurity enthusiast dedicated to exploring the dept
 
 - **Current Projects:**
   - Planning on creating a game in Python
-  - Building a personal portfolio website at [www.maksimovic.at](https://www.maksimovic.at)
-  - Researching and writing about cybersecurity best practices
+  - Building a personal portfolio website at [www.maksimovic.at](https://www.maksimovic.at) (DONE)
+  - Researching and writing about cybersecurity best practices (DONE)
 
 ## 🛠️ Technologies & Tools
 
@@ -25,15 +25,8 @@ I'm **SerbianCharm**, a cybersecurity enthusiast dedicated to exploring the dept
 - Python
 - Ethical Hacking
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - Earn advanced cybersecurity certifications
-- Contribute to more open-source security tools
-- Share knowledge through writing and speaking
-
-## 🎮 Hobbies & Passions
-
-- **Gaming:** Immersing myself in virtual worlds and conquering new challenges like HackTheBox and TryHackMe.
-- **Hacking:** Solving complex problems and breaking down security barriers, ethically.
-- **Coding:** Crafting clean, efficient code and exploring new technologies.
-- **Reading:** Always diving into a good book, from cybersecurity to science-fiction.
+- Contribute to open-source security tools
+- Attend more CTF's
