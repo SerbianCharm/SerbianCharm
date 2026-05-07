@@ -6,13 +6,8 @@ I'm **SerbianCharm**, a cybersecurity enthusiast dedicated to exploring the dept
 
 - **Current Projects:**
   - Planning on creating a game
-  - Building a personal portfolio website at [www.maksimovic.at](https://www.maksimovic.at) (DONE)
+  - MSc in IT-Security
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, PowerShell, C
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerbianCharm&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerbianCharm&show_icons=true&theme=dark)
